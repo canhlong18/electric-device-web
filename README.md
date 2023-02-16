@@ -1,13 +1,13 @@
 # electric-device-web
 
->	University of Da Nang - The University of Science and Technology 
->	Faculity of Advanced Science and Technology
->
->	Final Project - Network topics
->	Lecturer: Nguyen Tan Khoi
->	Group 1 - 18PFIEV2
->	Qui Anh Khoa
->	Nguyen Canh Long
+	University of Da Nang - The University of Science and Technology 
+	Faculity of Advanced Science and Technology
+
+	Final Project - Network topics
+	Lecturer: Nguyen Tan Khoi
+	Group 1 - 18PFIEV2
+	Qui Anh Khoa
+	Nguyen Canh Long
 
 ------------------------------------------------------------------------
 To open this web app: (requires NodeJs and ReactJs are already installed on your computer)
